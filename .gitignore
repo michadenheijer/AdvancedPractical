@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 
 *.hdf5
+!combined_with_binary.hdf5
