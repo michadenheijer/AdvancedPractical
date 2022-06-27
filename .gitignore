@@ -154,3 +154,4 @@ cython_debug/
 *.hdf5
 !combined_with_binary.hdf5
 !combined_with_perc.hdf5
+!combined_with_perc_2.hdf5
